@@ -3,4 +3,4 @@
 2. Count the total of a number set
 3. Find the average of a number set
 
-Run `learn` to get started. Write your `SQL` in `lib/students` to get the specs in spec/student_spec.rb to pass.
+Run `learn` to get started. Write your `SQL` in `lib/students` to get the specs in `spec/student_spec.rb` to pass.
