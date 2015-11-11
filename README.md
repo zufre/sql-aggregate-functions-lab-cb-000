@@ -29,6 +29,4 @@ id	 name	  grade	 gpa	tardies
 --- ------ ------   ----  -------
 ```
 
-```
-
 Run `learn` to get started. Write your `SQL` in `lib/students` to get the specs in `spec/student_spec.rb` to pass.
