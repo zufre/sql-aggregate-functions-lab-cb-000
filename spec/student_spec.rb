@@ -32,7 +32,7 @@ describe "aggregate functions sql" do
   end
   describe "#average_gpa_for_9th_grade" do
     it 'find the average gpa for 9th grade' do
-      expect(@db.execute(average_student_gpa_for_9th_grade).first.first).to be_within(0.0001).of(3.3)
+      expect(@db.execute(average_gpa_for_9th_grade).first.first).to be_within(0.0001).of(3.3)
     end
   end
 
