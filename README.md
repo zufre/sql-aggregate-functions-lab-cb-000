@@ -5,6 +5,8 @@
 
 We have a database full of students. The schema is as follows:
 ![](http://readme-pics.s3.amazonaws.com/sql-students.png)
-Run `learn` to get started. Write your `SQL` in `lib/students` to get the specs in `spec/student_spec.rb` to pass.
+Run `learn` to get started. Write your `SQL` in `lib/students.rb` to get the specs in `spec/student_spec.rb` to pass.
+
+Note: Since it's a Ruby file, write your queries as strings inside each method already defined in `lib/student.rb` .
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-aggregate-functions-lab' title='Objectives:'>Objectives:</a> on Learn.co and start learning to code for free.</p>
