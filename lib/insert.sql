@@ -14,3 +14,4 @@ INSERT INTO students (name, grade, gpa, tardies)
     VALUES ("George", 9, 3.9, 1);
 INSERT INTO students (name, grade, gpa, tardies)
     VALUES ("Daryl", 9, 3.5, 5);
+    
